@@ -1,4 +1,7 @@
 # Notes on how to use jekyll
+
+<https://xjjiang.github.io/>
+
 ## 1. Testing locally
 
 To start the jekyll server, run:
